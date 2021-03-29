@@ -35,3 +35,4 @@ jobs:
         with:
           # Open Movie Database api-key to retrieve the information
           api-key: ${{secrets.API_TOKEN}}
+
